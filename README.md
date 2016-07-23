@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # angular2-quickstart
 
 This tiny repo is done according to angular2 quickstart guide
@@ -28,3 +29,7 @@ Clone this repo
   ```
 
 Good luck with angular2 hacking!
+=======
+# harrity-development.github.io
+Homebase
+>>>>>>> refs/remotes/origin/master

@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
+=======
+>>>>>>> refs/remotes/origin/master
 # Logs
 logs
 *.log
@@ -16,6 +19,12 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
+<<<<<<< HEAD
+=======
+# nyc test coverage
+.nyc_output
+
+>>>>>>> refs/remotes/origin/master
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -25,6 +34,7 @@ coverage
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
+<<<<<<< HEAD
 # Dependency directory
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
@@ -33,3 +43,14 @@ node_modules
 app/**/*.js
 app/**/*.js.map
 typings
+=======
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+>>>>>>> refs/remotes/origin/master
