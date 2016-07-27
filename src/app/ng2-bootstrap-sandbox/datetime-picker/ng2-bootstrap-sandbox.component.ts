@@ -3,7 +3,7 @@ import {AlertComponent, DATEPICKER_DIRECTIVES} from 'ng2-bootstrap/ng2-bootstrap
 import {NgModel} from '@angular/forms';
 
 @Component({
-  selector: 'my-app',
+  selector: 'app',
   directives: [AlertComponent, DATEPICKER_DIRECTIVES, NgModel],
   template: `
     <alert type="info">ng2-bootstrap hello world!</alert>

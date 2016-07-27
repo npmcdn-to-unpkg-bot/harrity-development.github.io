@@ -1,0 +1,17 @@
+.container-fluid {
+    /*margin: 1%;
+    -webkit-box-shadow: 0px 0px 40px 0px #ececec;
+    -moz-box-shadow: 0px 0px 40px 0px #ececec;
+    box-shadow: 0px 0px 40px 0px #ececec;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;*/
+}
+.logo-banner>.img {
+    width: 100%;
+    height: auto;
+}
+.logo-icon>.img {
+    width: 100%;
+    height: auto;
+}
