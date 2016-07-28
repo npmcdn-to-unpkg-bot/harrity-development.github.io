@@ -12,6 +12,8 @@ var core_1 = require('@angular/core');
 var ng2_bootstrap_1 = require('ng2-bootstrap/ng2-bootstrap');
 var AppComponent = (function () {
     function AppComponent() {
+        this.bannerUrl = "https://harrity-development.github.io";
+        this.imageSrc = "/src/app/img/logo-banner-with-icon.png";
     }
     AppComponent = __decorate([
         core_1.Component({

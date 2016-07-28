@@ -7,11 +7,15 @@
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;*/
 }
-.logo-banner>.img {
+.banner{
+    text-align: center;
+}
+.banner a{
+    display: block;
     width: 100%;
     height: auto;
 }
-.logo-icon>.img {
+.banner img{
+    display: inherit;
     width: 100%;
-    height: auto;
 }
